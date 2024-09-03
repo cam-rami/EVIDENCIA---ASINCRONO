@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(124, 196, 209);
+}
+div{
+    text-align:center;
+}
+button{
+    background-color: rgb(168, 168, 230);
+    border: 2px solid rgba(0, 0, 0, 2);
+    height: 30px;
+
+}
